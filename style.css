@@ -101,3 +101,9 @@ body {
     color: #999;
     font-size: .9rem;
   }
+
+  /*Video-CSS*/ 
+video {
+  width: 100%;
+  max-height: 100%;
+}
